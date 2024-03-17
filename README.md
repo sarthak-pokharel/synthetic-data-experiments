@@ -1,4 +1,4 @@
 ### Synthetic Data Lab
 
-> **Warning**  
+> [!WARNING]  
 > This Project is Under Development
